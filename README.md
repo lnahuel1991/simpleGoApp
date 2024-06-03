@@ -1,1 +1,1 @@
-# simpleGoApp
+# simpleGoApps
